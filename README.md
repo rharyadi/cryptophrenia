@@ -10,7 +10,8 @@ This list of contents will be updated evertime I add new script.
 - errorhandler.py: is just a routine of error handling. It's boring to write this over and over again.
 - divide.py: simply divides two integers and returns list containing quotient and remainder respectively.
 - gcd.py: this script will return gcd(a,b) from given integer a and b.
-- ext.py: extended Euclidean algorithm, finds u and v that satisfy au + bv = gcd(a,b)
+- exteuclid.py: extended Euclidean algorithm, finds u and v that satisfy au + bv = gcd(a,b)
+- fastpower.py: fast powering algorithm using binary expansion
 
 ## To Do Next
 
@@ -19,4 +20,3 @@ This list of contents will be updated evertime I add new script.
 ## License
 Licensed under the WTFPL license.
 
-Rosyid Haryadi (it's my real name.)
