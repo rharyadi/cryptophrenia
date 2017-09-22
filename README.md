@@ -13,6 +13,7 @@ This list of contents will be updated evertime I add new script.
 - exteuclid.py: extended Euclidean algorithm, finds u and v that satisfy au + bv = gcd(a,b)
 - fastpower.py: fast powering algorithm using binary expansion
 - primechecker.py: checking if a number is a prime using Fermat Little Theorem
+- naiveeulerphi.py: computing Euler's Phi function, by bruteforce
 
 ## To Do Next
 
