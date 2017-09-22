@@ -10,6 +10,6 @@ def zerodiv(x):
     print("variable %s can not be zero" %x)
     exit(1)
 
-def modzero(n):
+def modzero():
     print("modular zero is undefined")
     exit(1)

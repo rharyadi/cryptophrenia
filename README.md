@@ -12,6 +12,7 @@ This list of contents will be updated evertime I add new script.
 - gcd.py: this script will return gcd(a,b) from given integer a and b.
 - exteuclid.py: extended Euclidean algorithm, finds u and v that satisfy au + bv = gcd(a,b)
 - fastpower.py: fast powering algorithm using binary expansion
+- primechecker.py: checking if a number is a prime using Fermat Little Theorem
 
 ## To Do Next
 
