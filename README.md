@@ -14,6 +14,7 @@ This list of contents will be updated evertime I add new script.
 - fastpower.py: fast powering algorithm using binary expansion
 - primechecker.py: checking if a number is a prime using Fermat Little Theorem
 - naiveeulerphi.py: computing Euler's Phi function, by bruteforce
+- diffiehellman.py: Diffie-Hellman key exchange
 
 ## To Do Next
 

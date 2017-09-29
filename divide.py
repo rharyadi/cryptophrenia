@@ -22,7 +22,7 @@ if __name__ == "__main__":
     try:
         a, b = int(argv[1]), int(argv[2])
     except ValueError:
-        inputerror()
+        inputerror(2)
 
     [q,r] = divide(a,b)
     print("""

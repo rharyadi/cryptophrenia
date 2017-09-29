@@ -13,3 +13,4 @@ def zerodiv(x):
 def modzero():
     print("modular zero is undefined")
     exit(1)
+
